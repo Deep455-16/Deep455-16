@@ -103,21 +103,6 @@ A facial expression detection system for online meetings that identifies faces a
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Deep455-16&show_icons=true&theme=radical&hide_border=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deep455-16&layout=compact&theme=radical&hide_border=true" width="48%" />
-
-<img src="https://streak-stats.demolab.com?user=Deep455-16&theme=radical&hide_border=true" width="70%" />
-
-</div>
-
----
-
-<div align="center">
-
 **Let's connect and build something offline-first.**
 
 </div>
