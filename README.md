@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Deep 👋
+# Hi, I'm Deep Mundra👋
 
 **B.Tech CSE student building offline-first AI systems, risk & anomaly-detection tools, and data pipelines that work without the cloud.**
 
